@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fvrneto
+- 👀 I’m interested in Data Science and Machine learning.
+- 🌱 I’m currently learning Data Science on TechLabs
+- 💞️ I’m looking to collaborate on Fake-news project.
+- 📫 You can reach me here.
